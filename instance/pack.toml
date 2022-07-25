@@ -1,0 +1,13 @@
+name = "Comunismo"
+author = "Arthur Bufalo"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "769cbfac49ee1b594f490d0c30b87df005a4d6fcf1b80a8724bae0f3fc4897fb"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"

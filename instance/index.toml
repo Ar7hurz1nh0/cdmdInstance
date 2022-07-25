@@ -1,0 +1,549 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".minecraft/config/PlasmoVoice/config.json"
+hash = "8e522a8d1cd5646613ade9a8904725b1a1708216b9a2618c024c4e7633bf666f"
+
+[[files]]
+file = ".minecraft/config/animatica.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".minecraft/config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = ".minecraft/config/borderlessmining.json"
+hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
+
+[[files]]
+file = ".minecraft/config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = ".minecraft/config/crowdin.txt"
+hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
+
+[[files]]
+file = ".minecraft/config/cullleaves.json"
+hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
+
+[[files]]
+file = ".minecraft/config/dashloader.json"
+hash = "6c394dafcce7ccf9b6743624e9b444c60eb2079f73ff4e7348c3c18916eb7c40"
+
+[[files]]
+file = ".minecraft/config/debugify-descriptions.json"
+hash = "d47b5a3b045767e910984a11cd79fb2a153f896d503415e416e8800e64bca13a"
+
+[[files]]
+file = ".minecraft/config/debugify.json"
+hash = "10d75016499501468909dd59d1cbba54a6faecf477e4e1d64048086cf42d27b6"
+
+[[files]]
+file = ".minecraft/config/detailarmorbar.json"
+hash = "f438b26bc5e19856bc35f07ceae93a76ddbf4d9312941f8be817f53192b88560"
+
+[[files]]
+file = ".minecraft/config/dynamicfps.toml"
+hash = "8281525788b10fe2ccea6d7e0cc3f7a8a05ddd08679bdad541cd8116596ed122"
+
+[[files]]
+file = ".minecraft/config/enhanced_bes.properties"
+hash = "7688c9da64a77bf0db110a7c6262e97b6fdfd838a9cd10036a5e2507eba321f1"
+
+[[files]]
+file = ".minecraft/config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = ".minecraft/config/fabric/indigo-renderer.properties"
+hash = "e8e6d0ed0462339b18bc8db669d95512f23b68ebf45506a1d87c575199416871"
+
+[[files]]
+file = ".minecraft/config/ferritecore.mixin.properties"
+hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
+
+[[files]]
+file = ".minecraft/config/indium-renderer.properties"
+hash = "c5b299ba23eecf58b80bda6a73506c3f33ec77eaee97bedac798b5c36f787d83"
+
+[[files]]
+file = ".minecraft/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = ".minecraft/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+
+[[files]]
+file = ".minecraft/config/iris.properties"
+hash = "b28a1c478db258d9ae18f692bea70b3ffb848c792f7d2a08124bc5d43d75ccd8"
+
+[[files]]
+file = ".minecraft/config/lambdabettergrass.toml"
+hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
+
+[[files]]
+file = ".minecraft/config/lambdynlights.toml"
+hash = "90675bfca809b3e2e712ec58f62bdbfce1d0e74ef1e8a2326d37618621b5bead"
+
+[[files]]
+file = ".minecraft/config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = ".minecraft/config/midnightlib.json"
+hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
+
+[[files]]
+file = ".minecraft/config/modmenu.json"
+hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
+
+[[files]]
+file = ".minecraft/config/mousewheelie.hjson"
+hash = "f7e277666de45885aa5931c512129946ae53216a5cabddba7498f4dc9a6323bb"
+
+[[files]]
+file = ".minecraft/config/rrp.properties"
+hash = "80b59a0e5c220e0191673c52d23c9c2764f97acc0e90abaf2125dfc7e35d5149"
+
+[[files]]
+file = ".minecraft/config/skinlayers.json"
+hash = "55e1e98eae07027f2e91e6ba4f6cfd9973e61461a2bb3e30fb58e0648a55275c"
+
+[[files]]
+file = ".minecraft/config/sodium-extra-options.json"
+hash = "e7ea0b3f6f0a25f21a06357e46b89302a2f5349dd69ad1df6ec26ab011afebd9"
+
+[[files]]
+file = ".minecraft/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = ".minecraft/config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = ".minecraft/config/sodium-options.json"
+hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = ".minecraft/config/tr7zwDonorSettings.json"
+hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
+
+[[files]]
+file = ".minecraft/config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = ".minecraft/config/waila/waila.json"
+hash = "4597fde5d576f236df3cdb1e9049601e766780ca9b245263a0fc0aa886286624"
+
+[[files]]
+file = ".minecraft/config/waila/waila_plugins.json"
+hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
+
+[[files]]
+file = ".minecraft/config/waveycapes.json"
+hash = "b71afe84f1947f460c5f0a01ad629a51c00344c3e3b30ec8c9ff1af7302739f6"
+
+[[files]]
+file = ".minecraft/config/zoomify.json"
+hash = "62f21cd2ecfbbf6b43ed33f191b433c8bfdbafe5348472e4103e86ca766d99df"
+
+[[files]]
+file = ".minecraft/mods/3dskinlayers-fabric-1.4.7-mc1.19.jar"
+hash = "fc6e106ffdce28fa5f93891a2507bd6ec877b207db656befa6e4b3be862c0f09"
+
+[[files]]
+file = ".minecraft/mods/BetterF3-1.3.1-Fabric-1.19.jar"
+hash = "0f4ad37773fc9061b0bc9c649e7e0d09bf698dbbc4825fc7f6d7db18d2f8c88c"
+
+[[files]]
+file = ".minecraft/mods/BetterPingDisplay-Fabric-1.19-1.1.1.jar"
+hash = "f4a00558d94c7cbbb1a59723d317b52404868c6d15f37d4ef420ef79c0d388d3"
+
+[[files]]
+file = ".minecraft/mods/BetterThirdPerson-Fabric-1.19-1.8.1.jar"
+hash = "411a3ee0918cedacc75bd2e63b39e9188c02643602d0d10ae70d3c5e2a001819"
+
+[[files]]
+file = ".minecraft/mods/Capes-1.4.4+1.19.jar"
+hash = "75815e0b7ef0c041781a3607f6a09de9925ae1257e9c7c7d1374cb3e9388879d"
+
+[[files]]
+file = ".minecraft/mods/DetailArmorBar-2.6.2+1.19-fabric.jar"
+hash = "cc926a6590c17fdc5919856ceda8fc2c641728de716690c6e410605668488599"
+
+[[files]]
+file = ".minecraft/mods/InventoryProfilesNext-fabric-1.19-1.5.3.jar"
+hash = "ecf1ad1a0db71776a4a34dc4525404ce381463e51d9d629c51a5de4c51e82f18"
+
+[[files]]
+file = ".minecraft/mods/PresenceFootsteps-1.6.1.jar.disabled"
+hash = "214d36e7c73bde9cf5eb47db573d5c9ec605fd86fada56f068c57a25c7a9cf90"
+
+[[files]]
+file = ".minecraft/mods/RoughlyEnoughItems-9.1.504.jar"
+hash = "b2a40bd4172a43b10c479006ffbda0816a092bea99c50541b011349e2b711b24"
+
+[[files]]
+file = ".minecraft/mods/SimpleRPC-fabric-1.19-3.0.2.jar"
+hash = "ae114b716e52fd6d1199ce0e4bb51ccffa5fdb03aadaecde7bc94dfb33a7ce72"
+
+[[files]]
+file = ".minecraft/mods/XaerosWorldMap_1.25.1_Fabric_1.19.jar"
+hash = "a675e27095dd7f4b8000db069018ba097cfc49bcf7af7f5336a5dc70af32ccc7"
+
+[[files]]
+file = ".minecraft/mods/Xaeros_Minimap_22.11.1_Fabric_1.19.jar"
+hash = "33c9c9e7feda849c5cfeeda6bdbb9db7110729d4a174c9849af7cc8cbd099939"
+
+[[files]]
+file = ".minecraft/mods/Zoomify-1.7.1.jar"
+hash = "adabe233406f80dab3a1c24b9bdf1dcc21baa2c74f47373ffffb4e8c0d4388f0"
+
+[[files]]
+file = ".minecraft/mods/animatica-0.5+1.19.jar"
+hash = "466e4e67b4da5593272c8db83560d3f7b61011f345601645f7e5b39173041c1c"
+
+[[files]]
+file = ".minecraft/mods/antighost-1.19-fabric0.55.3-1.1.5.jar"
+hash = "00b3870a51a517c2327fdcf4c7809d6ba6d8580fe5e595b930ab3d2152882692"
+
+[[files]]
+file = ".minecraft/mods/appleskin-fabric-mc1.19-2.4.0.jar"
+hash = "fa16725208294f8c89a5b88d22c6bd4256a92b6b1c1df2bce46f3172fbbee0cc"
+
+[[files]]
+file = ".minecraft/mods/architectury-5.8.29-fabric.jar"
+hash = "1348428ae5936d92f2b8acb3527bd8a10d209038afdbeccba7e400584a628ad9"
+
+[[files]]
+file = ".minecraft/mods/autoreconnect-2.1.0-beta.jar"
+hash = "5a8025a66c9654ea45e9203c167a4cada5cfed88ad77df2733e61b95bdc5b75e"
+
+[[files]]
+file = ".minecraft/mods/badpackets-fabric-0.1.2.jar"
+hash = "205b163eab823e77a72624e8cf855563f8cc0e45ed8f8ff45331f397e0d48954"
+
+[[files]]
+file = ".minecraft/mods/betterbiomeblend-1.19.0-1.3.6-fabric.jar"
+hash = "9a265b23976371f29cbb2b343f7bafdcc4cbab21b2cb75e4fb2b7440a6a2c760"
+
+[[files]]
+file = ".minecraft/mods/borderless-mining-1.1.5+1.19.jar"
+hash = "3423a588e381225a61c99c060e54590514ef645b22301c7a1da8d1dd2912e20c"
+
+[[files]]
+file = ".minecraft/mods/can-i-mine-this-block-1.3.0.jar"
+hash = "1d25de87149312f40abb3fd258a63901857ac88b4d1addde8363c6915ab89276"
+
+[[files]]
+file = ".minecraft/mods/cloth-config-7.0.72-fabric.jar"
+hash = "ef2e3ffd8ac70b5f0e810ac0ec4060398b1c5018f7fd64c59bbd27abd885da73"
+
+[[files]]
+file = ".minecraft/mods/continuity-2.0.0+1.19.jar"
+hash = "b699176e3434b684cf34d7ecb585bd85c4c1b697ebbb7f1fcc254d35f4e4c2e7"
+
+[[files]]
+file = ".minecraft/mods/cullleaves-2.3.4.jar"
+hash = "c986922ea86e6d24b1e3e69209968680589a6e505a8c3ab19cf00c62bd4e9efc"
+
+[[files]]
+file = ".minecraft/mods/custom-stars-1.1+1.19.jar.disabled"
+hash = "34695e46e8a0fb45d96b2636897490b05790691328b91be537098c6aa6a7f371"
+
+[[files]]
+file = ".minecraft/mods/dashloader-4.0.0+1.19.jar"
+hash = "08d7f6e07c3a75d50ecda2d9ade1c2d9dd6f383403bdceb9c19c07a308d87127"
+
+[[files]]
+file = ".minecraft/mods/dynamic-fps-2.2.0.jar"
+hash = "596c2924bad607f5820dc57f0b04387cbfc12894946970dde1e5050818196f7b"
+
+[[files]]
+file = ".minecraft/mods/effective-1.2.2.jar.disabled"
+hash = "4e7b7535360bd99e75c486e42f6ed7192ccb62ddea09fa178d1bd4812517a96f"
+
+[[files]]
+file = ".minecraft/mods/enhancedblockentities-0.7.1+1.19.jar"
+hash = "168cbc030440bd4d3ef5b7ead15773ac3edbcb3411963122beb265b113d7f1be"
+
+[[files]]
+file = ".minecraft/mods/entityculling-fabric-1.5.2-mc1.19.jar"
+hash = "0f2e6b299c422bd68966c2917dc20ebb58d20f001676ad71bc20a424d1290e6f"
+
+[[files]]
+file = ".minecraft/mods/extrasounds-2.3.1+1.19.jar.disabled"
+hash = "6fc5daa40dc72dfd492e3afeaf65a73425949f8805a0072c68ac13c79be46b81"
+
+[[files]]
+file = ".minecraft/mods/fabric-api-0.57.0+1.19.jar"
+hash = "92a118bc8e7942f2bcfba349652a05d23aa2596c1331f529074495f1ce4f6483"
+
+[[files]]
+file = ".minecraft/mods/fabric-language-kotlin-1.8.1+kotlin.1.7.0.jar"
+hash = "6ff2101d5e57ef5e118dfa5016a5abaa87940fe0aebec2058b051fe1ad8ce534"
+
+[[files]]
+file = ".minecraft/mods/fallingleaves-1.12.1+1.19.jar.disabled"
+hash = "86764d5cd525dc1b13ae8a447b71ba8c77681e28f82b0968b63fe7d7bd0b6f4d"
+
+[[files]]
+file = ".minecraft/mods/ferritecore-5.0.0-fabric.jar"
+hash = "c30ec2f2ff95ee1a3ef9087db2bca4ffb8316ecb61b14a8bfb7d905e87fe535d"
+
+[[files]]
+file = ".minecraft/mods/forgetmechunk-1.0.4-1.18.X-1.19.X.jar"
+hash = "48e7d6c5d83f5ab99fc3b08d95bdefaa0692750fe8b5d7846d0cfe3bda98a9ff"
+
+[[files]]
+file = ".minecraft/mods/illuminations-1.10.8.jar.disabled"
+hash = "2c25dc32b10e335016b91bd3a6d67195cb79c561857316a44d51fe631998d230"
+
+[[files]]
+file = ".minecraft/mods/indium-1.0.6+mc1.19.jar"
+hash = "f526aece032f53ba5b7a8ba5de44d806e6be5cea8ca6114e4e2f96de845dbee3"
+
+[[files]]
+file = ".minecraft/mods/iris-mc1.19-1.2.5.jar"
+hash = "da9cef0f6c697be6ede5edd31681d1caf771e3ac9e88d96cfe89573e440da6de"
+
+[[files]]
+file = ".minecraft/mods/krypton-0.2.0.jar"
+hash = "2d57301028f354cc5fde3ff710613e6b20c10041ccdbbb7a45182cf116562ab4"
+
+[[files]]
+file = ".minecraft/mods/lambdabettergrass-1.3.0+1.19.jar.disabled"
+hash = "af81aead5e405a6ac2f5c03ab46c82863f7c55a8beef8d6313501d9b8335ab54"
+
+[[files]]
+file = ".minecraft/mods/lambdynamiclights-2.1.2+1.19.jar"
+hash = "153699d6e60673e203da65c10c0f40e9502e0cc775d35f594a4acab4afd77b26"
+
+[[files]]
+file = ".minecraft/mods/lazydfu-0.1.3.jar"
+hash = "4f3b77273b57d019a8db58371e63e4426557c1bb7c9cc10536a03972122778c8"
+
+[[files]]
+file = ".minecraft/mods/lithium-fabric-mc1.19-0.8.1.jar"
+hash = "34b0a253b1960f7d3b0dcf903adc5de615b98f986e91550f7e4691d3ac425216"
+
+[[files]]
+file = ".minecraft/mods/memoryleakfix-1.19-0.4.1.jar"
+hash = "a6449424db8bde5b3384f9c54a349c215a40976798fcbc1a87bac8e8a5190619"
+
+[[files]]
+file = ".minecraft/mods/modmenu-4.0.0.jar"
+hash = "d0c1ae78e727d69eaf420839605d44c025e91b438bbe480c8b576842cc69d1de"
+
+[[files]]
+file = ".minecraft/mods/mousewheelie-1.10.1+mc1.19-pre1.jar"
+hash = "0ad42d373f3e0abf6a6127c1862a85862e29e6744c869250197967632b3b0465"
+
+[[files]]
+file = ".minecraft/mods/no-telemetry-1.4.0.jar"
+hash = "6ccb943b2189557c4821694686565739068e6aa957917c3647fa1a8e881fbe40"
+
+[[files]]
+file = ".minecraft/mods/plasmovoice-fabric-1.19-1.2.17.jar"
+hash = "db95b6f090263a8e4590930c4db42d2588ee4cfb3f78e495400ad4e68ec50f22"
+
+[[files]]
+file = ".minecraft/mods/recipecache-0.2.0-1.19.jar"
+hash = "1e6780e5bd9aa27f0c375eb3d0e498d4e7f6e1aba1f44a326ea6b5a2da8dd274"
+
+[[files]]
+file = ".minecraft/mods/reeses_sodium_options-1.4.3+mc1.19-build.43.jar"
+hash = "edfbedcfc644e84feea39398837cb83e5c466b71fd88ce755f82f55bda554e24"
+
+[[files]]
+file = ".minecraft/mods/sodium-extra-0.4.5+mc1.19-build.43.jar"
+hash = "1b8e1d343b894baf1e68e76f5d4e2de91db4401e4bc802e545fc4c1a1f3921f5"
+
+[[files]]
+file = ".minecraft/mods/sodium-fabric-mc1.19-0.4.2+build.16.jar"
+hash = "3bd5e4fc759b8a311dc088502eaeabc49676e4c0b10d380975635c46c71f037d"
+
+[[files]]
+file = ".minecraft/mods/soundphysics-fabric-1.19-1.0.7.jar.disabled"
+hash = "82f88d664319cc7d3f0951da824935928f8cc39e1f84b18591e316b07428b2ce"
+
+[[files]]
+file = ".minecraft/mods/starlight-1.1.1+fabric.ae22326.jar"
+hash = "f2dd6682941326a833aaba868339b4ad9c93882fdef4447120ca0a8dea633a42"
+
+[[files]]
+file = ".minecraft/mods/waveycapes-fabric-1.2.0-mc1.19.jar"
+hash = "d0554b3f10ce780f2a338af013c2cbf553caf4f2c08fd733a7d8e184a3597b52"
+
+[[files]]
+file = ".minecraft/mods/wthit-fabric-5.5.1.jar"
+hash = "884c1d43c0a0a653d278a784a33cef58c0cc3e20ccd730f634aa1186664056ce"
+
+[[files]]
+file = ".minecraft/options.amecsapi.txt"
+hash = "51bd90af6d4821ba7de8334b21b191a6e64b3d85b64495e292ad24d4448d614f"
+
+[[files]]
+file = ".minecraft/options.txt"
+hash = "fc7b900a7657919e069f4c3539b79927a620b877d56cda93fc2bb03e167f832b"
+
+[[files]]
+file = ".minecraft/resourcepacks/Bare+Bones+1.19.zip"
+hash = "e66a8bbe8b5beab8f72ff8c712389ce4a52ecf7df446e0c46261d0aefe5d4180"
+
+[[files]]
+file = ".minecraft/resourcepacks/Bare+Bones+Normals+0.3.zip"
+hash = "7e527c336dc1ff6ed47b57835bf70ea62d75ffee092c03d9733d6ae2da95b5d5"
+
+[[files]]
+file = ".minecraft/resourcepacks/Better-Leaves-7.1-1.19+.zip"
+hash = "b85d22739dda61ad605e0dd5f9f0757a03bd87a5059ff17db541a96f680b2de0"
+
+[[files]]
+file = ".minecraft/resourcepacks/Dramatic+Skys+Demo+1.5.zip"
+hash = "20289d61d4b6c5f5bf10442da46d1567a7190565296d685ceb53fd6ae32c1ebe"
+
+[[files]]
+file = ".minecraft/resourcepacks/FreshAnimations_v1.6.1.zip"
+hash = "1f7d4ab14fc99488d24fb8f2d7531a077ef1b86eb59271b5e3daaee1f6857881"
+
+[[files]]
+file = ".minecraft/resourcepacks/Stay_True_1.19.zip"
+hash = "ae21deee13f9139506e14fc73e3d99681468cd79ae9fa7ab988bc9e7d0fdecec"
+
+[[files]]
+file = ".minecraft/resourcepacks/xali-s-Enchanted-Books-16x-v0.10.1.zip"
+hash = "4ffeb262e3898c4000cb8595c80e7d313fac3e795ada930172fcffc496fe5f0d"
+
+[[files]]
+file = ".minecraft/servers.dat"
+hash = "d2b188973e76d655c3d11ff2f7d41c035743694c0c8d6f22dc76ff9e8b75b3ec"
+
+[[files]]
+file = ".minecraft/shaderpacks/AstraLex_(BSL_Edit)_By_LexBoosT_V32.0.zip"
+hash = "ce86ae4921ab5e8aab4d51cffe78bf6d38d86aaa136d492e08cb94a6b3c14362"
+
+[[files]]
+file = ".minecraft/shaderpacks/BSL-latest-DEV.zip"
+hash = "c3ae50b2811c1ef16dfe4a6c47854640bbd858894328832a7e45af6c342daec9"
+
+[[files]]
+file = ".minecraft/shaderpacks/BSL-latest.zip"
+hash = "0cada74e42123f6e5b348618d64e5d6627d2b63a5a8f05e9bfb13af764387b25"
+
+[[files]]
+file = ".minecraft/shaderpacks/BSL-latest.zip.txt"
+hash = "e7ec95ba11253c56be5a96a980b6b616903dfc8a2fd104c5ba81eda315595fe2"
+
+[[files]]
+file = ".minecraft/shaderpacks/BeyondBeliefLegacy_V1.2.1.zip"
+hash = "ed17dd0b361ff6ef2c08d03dc6b5c5cf56a085edd7406e62c1a255e256fd793a"
+
+[[files]]
+file = ".minecraft/shaderpacks/Chocapic13_V9.zip"
+hash = "542e2b1699a668e6ebd744fd8343eae62ef509efcb4c96fca61898b597f8446d"
+
+[[files]]
+file = ".minecraft/shaderpacks/Complementary-v4.5.1.zip"
+hash = "f0806e5404074a51f3564327eb0735b27e11f68fa3b200134958dd8c4901ad5b"
+
+[[files]]
+file = ".minecraft/shaderpacks/Complementary-v4.5.1.zip.txt"
+hash = "24c1cea6e5c6c76967cc625a9e5981b418b2b1ea6bae45639f612b35b0ef6e5d"
+
+[[files]]
+file = ".minecraft/shaderpacks/Kappa_v4.1.zip"
+hash = "87eebca670fd118819b0d20798f7d02b46b2ef28efdbf5afc5d2b350a289d228"
+
+[[files]]
+file = ".minecraft/shaderpacks/Oceano+Shaders+3.0.1.zip"
+hash = "82ec3c417892bbe9df18ac29582a2e6a15c36a02f7eb3260d33a7915196c7dfe"
+
+[[files]]
+file = ".minecraft/shaderpacks/Prismarine+V4.1a.zip"
+hash = "16d68eda8400e2f36221d20242a2d2093f8f0b2f99ba0416d8be66cd0e6a2443"
+
+[[files]]
+file = ".minecraft/shaderpacks/Prismarine-Rewrite-main.zip"
+hash = "0000a15d040db16584326694cd083c4cc6d017393ba1c973c3a107afb7602bfe"
+
+[[files]]
+file = ".minecraft/shaderpacks/Prismarine-Rewrite-main.zip.txt"
+hash = "07ae7ee18e1acae474d0d52b369f5a8d146ddb3306cec882e0416e0e3ad5fdb3"
+
+[[files]]
+file = ".minecraft/shaderpacks/Prismarine-Rewrite.txt"
+hash = "5ba3b11b96abbe2e2e9e80fc738bcff7f11321795b244ac36c6be04b34a589e0"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI E12.zip"
+hash = "30124cad65cff2b4f66be01f0bfb47f5c7e09ccfb933a1c7bd1ff12467a4342a"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI E12.zip.txt"
+hash = "dd7f25b88211c58daaf19fda410ed24a30bd5cbeda318d9d8835744649981fc8"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI HRR 3.zip"
+hash = "6bd4ee3489de276095022f9662d48fdd99318019079d3ee945eff0a9ab6f7d87"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI HRR 3.zip.txt"
+hash = "827b4c7526c5b542043a6f7ab0037c8bbb3d6f40b4982df3bf278c1b150031e2"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI HRR Test 2.1.zip"
+hash = "45a9ff3140cfc805194928e2b895097a533d20552b51aa9cb90295b2de771606"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI HRR Test 2.1.zip.txt"
+hash = "ac3ba858c720bdcec44b046240a3d3fa44ba4fa740a5c2a68408093a02ee27cc"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS-Renewed-v1.0.1.zip"
+hash = "76a1ff6c0d7827ecd0857e5a9b5298337f232662767abf0f011154c85b6da8ef"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS-Renewed-v1.0.1.zip.txt"
+hash = "2c4656583f40b0e0c8e7ac47bcf1d8e336251340ebc56a0ccd0d12dbeff52d9d"
+
+[[files]]
+file = ".minecraft/shaderpacks/Sildur's+Vibrant+Shaders+v1.31+Extreme.zip"
+hash = "15db6e7ba30fcc1d3fa0d4f69a68982ebbf889d4670c8bfc4e040ac1f5a53894"
+
+[[files]]
+file = ".minecraft/shaderpacks/Sora_Shaders_1.12.zip"
+hash = "576b5aca04c14be78bc783423b1841ebca7d28ef8fc39dc1d6afb3f141540aac"
+
+[[files]]
+file = ".minecraft/shaderpacks/Voyager+shader+2.0.3.zip"
+hash = "df15efea88bbf49e9051abe3069cad3974b7444e21f5a1ff1a95c89d5ce2a097"
+
+[[files]]
+file = ".packignore"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "icon.svg"
+hash = "bc53b461a57cef3b2be74c157b91035bb027fc1ee7ff4974cda06708e3a2f4a5"
+
+[[files]]
+file = "installer.jar"
+hash = "3583f2627e2e431ceb38c4cb9b21c9788fb5d1e3ecb1442b69fb068e74b15f7a"
+
+[[files]]
+file = "instance.cfg"
+hash = "a6451421cdabdd3124da9edf1da273ed541ea7902a5f35b66c2f87a172d76838"
+
+[[files]]
+file = "mmc-pack.json"
+hash = "05316fe132de0dbaba35f5f5544bd6091f4c6cf25d148cdddce3afa75ba9138f"
+
+[[files]]
+file = "updater.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
