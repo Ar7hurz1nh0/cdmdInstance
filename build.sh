@@ -9,6 +9,7 @@ cp -rf -v -u .minecraft ../public
 echo "Cache updated"
 echo "Updating instance... "
 cd ..
+cp index.html public/index.html
 tsc index.ts
 node .
 echo "Done!"
