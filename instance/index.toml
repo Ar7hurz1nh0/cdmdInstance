@@ -538,7 +538,7 @@ hash = "3583f2627e2e431ceb38c4cb9b21c9788fb5d1e3ecb1442b69fb068e74b15f7a"
 
 [[files]]
 file = "instance.cfg"
-hash = "a6451421cdabdd3124da9edf1da273ed541ea7902a5f35b66c2f87a172d76838"
+hash = "a27b3244045fd9f55079dcc2da939f2aa2d6d445a5b4327f702a27cd8365a9bd"
 
 [[files]]
 file = "mmc-pack.json"
