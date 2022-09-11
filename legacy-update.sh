@@ -1,5 +1,5 @@
 #!/bin/bash
-cd instance
+cd instance || exit
 ../packwiz refresh
 echo "Updating cache..."
 sudo cp -rf -v -u * /var/multimc

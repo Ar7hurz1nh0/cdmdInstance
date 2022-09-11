@@ -1,0 +1,165 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".minecraft/options.amecsapi.txt"
+hash = "51bd90af6d4821ba7de8334b21b191a6e64b3d85b64495e292ad24d4448d614f"
+
+[[files]]
+file = ".minecraft/options.txt"
+hash = "fc7b900a7657919e069f4c3539b79927a620b877d56cda93fc2bb03e167f832b"
+
+[[files]]
+file = ".minecraft/resourcepacks/Bare+Bones+1.19.zip"
+hash = "e66a8bbe8b5beab8f72ff8c712389ce4a52ecf7df446e0c46261d0aefe5d4180"
+
+[[files]]
+file = ".minecraft/resourcepacks/Bare+Bones+Normals+0.3.zip"
+hash = "7e527c336dc1ff6ed47b57835bf70ea62d75ffee092c03d9733d6ae2da95b5d5"
+
+[[files]]
+file = ".minecraft/resourcepacks/Better-Leaves-7.1-1.19+.zip"
+hash = "b85d22739dda61ad605e0dd5f9f0757a03bd87a5059ff17db541a96f680b2de0"
+
+[[files]]
+file = ".minecraft/resourcepacks/Dramatic+Skys+Demo+1.5.zip"
+hash = "20289d61d4b6c5f5bf10442da46d1567a7190565296d685ceb53fd6ae32c1ebe"
+
+[[files]]
+file = ".minecraft/resourcepacks/FreshAnimations_v1.6.1.zip"
+hash = "1f7d4ab14fc99488d24fb8f2d7531a077ef1b86eb59271b5e3daaee1f6857881"
+
+[[files]]
+file = ".minecraft/resourcepacks/Stay_True_1.19.zip"
+hash = "ae21deee13f9139506e14fc73e3d99681468cd79ae9fa7ab988bc9e7d0fdecec"
+
+[[files]]
+file = ".minecraft/resourcepacks/xali-s-Enchanted-Books-16x-v0.10.1.zip"
+hash = "4ffeb262e3898c4000cb8595c80e7d313fac3e795ada930172fcffc496fe5f0d"
+
+[[files]]
+file = ".minecraft/servers.dat"
+hash = "6351a1f80a9618f31d6a499be063372910df361871adb26c5129a50b027d6f79"
+
+[[files]]
+file = ".minecraft/shaderpacks/AstraLex_(BSL_Edit)_By_LexBoosT_V32.0.zip"
+hash = "ce86ae4921ab5e8aab4d51cffe78bf6d38d86aaa136d492e08cb94a6b3c14362"
+
+[[files]]
+file = ".minecraft/shaderpacks/BSL-latest-DEV.zip"
+hash = "c3ae50b2811c1ef16dfe4a6c47854640bbd858894328832a7e45af6c342daec9"
+
+[[files]]
+file = ".minecraft/shaderpacks/BSL-latest.zip"
+hash = "0cada74e42123f6e5b348618d64e5d6627d2b63a5a8f05e9bfb13af764387b25"
+
+[[files]]
+file = ".minecraft/shaderpacks/BSL-latest.zip.txt"
+hash = "e7ec95ba11253c56be5a96a980b6b616903dfc8a2fd104c5ba81eda315595fe2"
+
+[[files]]
+file = ".minecraft/shaderpacks/BeyondBeliefLegacy_V1.2.1.zip"
+hash = "ed17dd0b361ff6ef2c08d03dc6b5c5cf56a085edd7406e62c1a255e256fd793a"
+
+[[files]]
+file = ".minecraft/shaderpacks/Chocapic13_V9.zip"
+hash = "542e2b1699a668e6ebd744fd8343eae62ef509efcb4c96fca61898b597f8446d"
+
+[[files]]
+file = ".minecraft/shaderpacks/Complementary-v4.5.1.zip"
+hash = "f0806e5404074a51f3564327eb0735b27e11f68fa3b200134958dd8c4901ad5b"
+
+[[files]]
+file = ".minecraft/shaderpacks/Complementary-v4.5.1.zip.txt"
+hash = "24c1cea6e5c6c76967cc625a9e5981b418b2b1ea6bae45639f612b35b0ef6e5d"
+
+[[files]]
+file = ".minecraft/shaderpacks/Kappa_v4.1.zip"
+hash = "87eebca670fd118819b0d20798f7d02b46b2ef28efdbf5afc5d2b350a289d228"
+
+[[files]]
+file = ".minecraft/shaderpacks/Oceano+Shaders+3.0.1.zip"
+hash = "82ec3c417892bbe9df18ac29582a2e6a15c36a02f7eb3260d33a7915196c7dfe"
+
+[[files]]
+file = ".minecraft/shaderpacks/Prismarine+V4.1a.zip"
+hash = "16d68eda8400e2f36221d20242a2d2093f8f0b2f99ba0416d8be66cd0e6a2443"
+
+[[files]]
+file = ".minecraft/shaderpacks/Prismarine-Rewrite-main.zip"
+hash = "0000a15d040db16584326694cd083c4cc6d017393ba1c973c3a107afb7602bfe"
+
+[[files]]
+file = ".minecraft/shaderpacks/Prismarine-Rewrite-main.zip.txt"
+hash = "07ae7ee18e1acae474d0d52b369f5a8d146ddb3306cec882e0416e0e3ad5fdb3"
+
+[[files]]
+file = ".minecraft/shaderpacks/Prismarine-Rewrite.txt"
+hash = "5ba3b11b96abbe2e2e9e80fc738bcff7f11321795b244ac36c6be04b34a589e0"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI E12.zip"
+hash = "30124cad65cff2b4f66be01f0bfb47f5c7e09ccfb933a1c7bd1ff12467a4342a"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI E12.zip.txt"
+hash = "dd7f25b88211c58daaf19fda410ed24a30bd5cbeda318d9d8835744649981fc8"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI HRR 3.zip"
+hash = "6bd4ee3489de276095022f9662d48fdd99318019079d3ee945eff0a9ab6f7d87"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI HRR 3.zip.txt"
+hash = "827b4c7526c5b542043a6f7ab0037c8bbb3d6f40b4982df3bf278c1b150031e2"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI HRR Test 2.1.zip"
+hash = "45a9ff3140cfc805194928e2b895097a533d20552b51aa9cb90295b2de771606"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS PTGI HRR Test 2.1.zip.txt"
+hash = "ac3ba858c720bdcec44b046240a3d3fa44ba4fa740a5c2a68408093a02ee27cc"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS-Renewed-v1.0.1.zip"
+hash = "76a1ff6c0d7827ecd0857e5a9b5298337f232662767abf0f011154c85b6da8ef"
+
+[[files]]
+file = ".minecraft/shaderpacks/SEUS-Renewed-v1.0.1.zip.txt"
+hash = "2c4656583f40b0e0c8e7ac47bcf1d8e336251340ebc56a0ccd0d12dbeff52d9d"
+
+[[files]]
+file = ".minecraft/shaderpacks/Sildur's+Vibrant+Shaders+v1.31+Extreme.zip"
+hash = "15db6e7ba30fcc1d3fa0d4f69a68982ebbf889d4670c8bfc4e040ac1f5a53894"
+
+[[files]]
+file = ".minecraft/shaderpacks/Sora_Shaders_1.12.zip"
+hash = "576b5aca04c14be78bc783423b1841ebca7d28ef8fc39dc1d6afb3f141540aac"
+
+[[files]]
+file = ".minecraft/shaderpacks/Voyager+shader+2.0.3.zip"
+hash = "df15efea88bbf49e9051abe3069cad3974b7444e21f5a1ff1a95c89d5ce2a097"
+
+[[files]]
+file = ".packignore"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "icon.svg"
+hash = "bc53b461a57cef3b2be74c157b91035bb027fc1ee7ff4974cda06708e3a2f4a5"
+
+[[files]]
+file = "installer.jar"
+hash = "3583f2627e2e431ceb38c4cb9b21c9788fb5d1e3ecb1442b69fb068e74b15f7a"
+
+[[files]]
+file = "instance.cfg"
+hash = "d301dc7e078a521f47764093a0c0cc332f76201fd8298bb3df207ee1ee3445a5"
+
+[[files]]
+file = "mmc-pack.json"
+hash = "05316fe132de0dbaba35f5f5544bd6091f4c6cf25d148cdddce3afa75ba9138f"
+
+[[files]]
+file = "updater.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
