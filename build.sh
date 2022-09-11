@@ -27,7 +27,9 @@ function cache() {
         cd "$1" || exit 1
         cd "$BASE_PATH"/cache || exit 1
         pnpm exec:ts updateInstance.ts "$1" &> /dev/null
+        cd "$1" || exit 1
         "$BASE_PATH"/packwiz refresh &> /dev/null
+        cd ..
         cp -rf "$1" "$BASE_PATH"/public
         pnpm exec:ts compressInstance.ts "$1" &> /dev/null
         echo "Done!"
@@ -40,8 +42,8 @@ cache base
 cache enhanced
 cache extra
 
-cache clearModCache
-cache beta
+# cache clearModCache
+# cache beta
 cd "$BASE_PATH" || exit 1
 echo "Cache updated"
 
