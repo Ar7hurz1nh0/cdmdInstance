@@ -25,9 +25,9 @@ function cache() {
         cp -rf -u "$BASE_PATH"/instances/"$1"/. "$BASE_PATH"/cache/modCache
         cp -rf "$BASE_PATH"/cache/modCache/. "$1"/.minecraft
         cd "$1" || exit 1
-        "$BASE_PATH"/packwiz refresh &> /dev/null
         cd "$BASE_PATH"/cache || exit 1
         pnpm exec:ts updateInstance.ts "$1" &> /dev/null
+        "$BASE_PATH"/packwiz refresh &> /dev/null
         cp -rf "$1" "$BASE_PATH"/public
         pnpm exec:ts compressInstance.ts "$1" &> /dev/null
         echo "Done!"
