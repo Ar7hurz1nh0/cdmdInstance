@@ -1,7 +1,7 @@
 author = "Arthur Bufalo"
 name = "Comunismo"
 pack-format = "packwiz:1.1.0"
-version = "1.2.5"
+version = "1.2.6"
 [index]
   file = "index.toml"
   hash = "d0e9229c683fb32aaa946f1e0a3f388f2526cf662c347967d7f0d9634068fa20"
