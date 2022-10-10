@@ -1,13 +1,12 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "lib": [ "esnext" ],
+    "lib": [ "DOM", "DOM.Iterable", "esnext" ],
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
     "module": "CommonJS",
     "moduleResolution": "node",
-    "isolatedModules": true,
     "baseUrl": ".",
   },
   "include": ["**/*.ts", "global.d.ts"],

@@ -1,5 +1,5 @@
 import { cwd } from "process"
-export const instances = <const> ['base', 'enhanced', 'extra', 'beta']
+export const instances = <const> ['base', 'enhanced', 'extra', 'beta', 'tata']
 
 export default class {
   static readonly instances: readonly string[] = instances

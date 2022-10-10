@@ -7,13 +7,13 @@ import { argv } from 'process';
 const args = {
   breakage: false,
   bump: false,
-  none: true
+  patch: true
 }
 
 for (const arg of argv) {
   if (arg.toLowerCase() == "breakage") args.breakage = true;
   if (arg.toLowerCase() == "bump") args.bump = true;
-  if ((args.breakage || args.bump) && args.none) args.none = false;
+  if ((args.breakage || args.bump) && args.patch) args.patch = false;
 }
 
 if (args.breakage && args.bump) {
@@ -36,7 +36,7 @@ if (args.breakage) {
   version[2] = 0;
 }
 
-if (args.none)
+if (args.patch)
   version[2]++;
 
 pack.version = version.join('.');

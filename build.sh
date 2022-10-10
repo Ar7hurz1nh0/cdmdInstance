@@ -19,7 +19,7 @@ function cache() {
         rm -rf "$BASE_PATH"/cache
       }
       else {
-        echo -n "Caching \"$1\". "
+        echo -n "Caching \"$1\"... "
         mkdir "$1"
         cp -rf "$BASE_PATH"/kernel/. "$1"/
         cp -rf -u "$BASE_PATH"/instances/"$1"/. "$BASE_PATH"/cache/modCache
@@ -42,8 +42,8 @@ cache base
 cache enhanced
 cache extra
 
-# cache clearModCache
-# cache beta
+cache clearModCache
+cache tata
 cd "$BASE_PATH" || exit 1
 echo "Cache updated"
 
@@ -51,8 +51,10 @@ echo -n "Cleaning up... "
 cache clearCache
 echo "Done!"
 
-echo -n "Finishing up... "
+echo "Finishing up... "
+echo -n "Setting up web routes... "
+pnpm exec:ts getArtifacts.ts &> /dev/null
 cp -rf web/* public
-
 echo "Done!"
+
 echo "Finished everything!"
